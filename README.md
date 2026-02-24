@@ -1,2 +1,7 @@
 # Testing-Purpose
-Please Test
+
+ int main
+ using namespace std;
+
+ cout << "hello world" << endl;
+
